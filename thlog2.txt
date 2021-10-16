@@ -1,0 +1,1 @@
+[*]bgColor plugin loaded, no error found.

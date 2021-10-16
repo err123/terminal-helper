@@ -1,0 +1,10 @@
+ [*] loaded blinking text on
+    	  [*] loaded bold text on
+    	  [*] loaded dim text on
+        [*] loaded reverse video on (switch text/background colors)
+        [*] loaded italic text on
+    	  [*] loaded italic text off
+        [*] loaded highlighted text on
+        [*] loaded highlighted text off
+        [*] loaded underlined text on
+        [*] loaded underlined text off
